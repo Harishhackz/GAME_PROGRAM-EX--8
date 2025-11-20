@@ -28,12 +28,12 @@ To create a landscape in Unreal Engine, apply a custom landscape material, and a
    - Use the brush tool to paint foliage onto the landscape.
 
 ## Output
-
-![Screenshot 2025-05-08 135337](https://github.com/user-attachments/assets/0b523414-9f03-42f5-b94a-20511cc851c6)
-
+<img width="1540" height="828" alt="image" src="https://github.com/user-attachments/assets/13989933-8687-40f2-908e-a4b4ebc6fadc" />
 
 
-![image](https://github.com/user-attachments/assets/e42a434b-86a3-48d6-a789-f02fb7eea43d)
+<img width="1519" height="838" alt="image" src="https://github.com/user-attachments/assets/cc5d36fb-7cbb-40c9-8522-f13075e265c5" />
+
+
 
 
 ## Result
